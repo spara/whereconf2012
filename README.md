@@ -11,4 +11,5 @@ Also included are two R scripts. Hierarchical.r is cribbed directly from http://
 ## Data ##
 
 data.csv is the data used for the analysis
+
 category is the list of location related companies retrieved from Crunchbase
